@@ -9,7 +9,7 @@ A Filament buffer system for Klipper, Inspired by BambuLab X1
 5. (optional) For Bambu-like Buffer you will need a Bambu Spring at 11mm diameter.
 
 # Usage
-1. Get your STLs printed and assemblied.
+1. Get your STLs printed and assembled.
 2. copy and paste Klipper/extras/buffer_stepper.py in to your Klipper/Klipper/extras folder.
 3. restart Klipper Sevice, and restart Klipper
 
